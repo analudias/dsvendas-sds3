@@ -7,6 +7,7 @@ Nesta semana, está sendo aplicado conhecimento em desenvolvimento back-end e fr
 
 ### Site publicado
 - [Netlify](https://analudias-dsvendas.netlify.app/)
+(Aguarde alguns segundos caso o projeto demore a carregar, pois a versão utilizada do Heroku leva um tempinho para carregar os dados.)
 
 ### Layout WEB
 ___

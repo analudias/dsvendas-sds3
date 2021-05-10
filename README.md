@@ -18,7 +18,6 @@ ___
 - TypeScript
 - JavaScript
 - ReactJS
-- React Native
 
 ### Banco de dados
 - H2

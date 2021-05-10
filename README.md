@@ -10,3 +10,24 @@ Nesta semana, está sendo aplicado conhecimento em desenvolvimento back-end e fr
 
 ### Layout WEB
 ___
+<img src="https://github.com/analudias/dsvendas-sds3/blob/main/assets/Home.png" alt="home-mobile" width="900px" height="500px"/>
+<img src="https://github.com/analudias/dsvendas-sds3/blob/main/assets/Dashboard.png" alt="form-mobile" width="900px" height="500px"/>
+
+### Tecnologias usadas
+- Java com Spring-boot
+- TypeScript
+- JavaScript
+- ReactJS
+- React Native
+
+### Banco de dados
+- H2
+- Postgresql
+
+### Ferramentas usadas
+- Spring Tool Suite
+- Postman
+- Visual Studio Code
+- pgAdmin
+- Heroku
+- Netlify
